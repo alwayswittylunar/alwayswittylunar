@@ -1,16 +1,21 @@
-## Hi there 👋
+<p>
+<img align="left" src="w/face.jpg" width="300" /> 
 
-<!--
-**alwayswittylunar/alwayswittylunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+alwayswittylunar@github
+-------------------------
+os: arch linux
+age: 15
+country: russia
+locales: ru,en
+laptop: ardor gaming neo n17-i5nd413
+cpu: Intel Core i5-12450H
+gpu: NVIDIA GeForce RTX 2050
+ram: 16gb
+site: wittylunar.site
+vk: @wittylunar
+music: soundcloud @wittylunar
+dotfiles: check my github pins
+himself
+```
+</p>
